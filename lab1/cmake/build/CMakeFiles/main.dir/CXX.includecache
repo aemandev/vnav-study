@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaron/repos/vnav-study/lab1/cmake/main.cpp
+iostream
+-
+my_lib.cpp
+/home/aaron/repos/vnav-study/lab1/cmake/my_lib.cpp
+
+/home/aaron/repos/vnav-study/lab1/cmake/my_lib.cpp
+string
+-
+my_lib.hpp
+/home/aaron/repos/vnav-study/lab1/cmake/my_lib.hpp
+
+/home/aaron/repos/vnav-study/lab1/cmake/my_lib.hpp
+

@@ -1,0 +1,4 @@
+/home/aaron/repos/vnav-study/lab1/cmake/build/CMakeFiles/edit_cache.dir
+/home/aaron/repos/vnav-study/lab1/cmake/build/CMakeFiles/main.dir
+/home/aaron/repos/vnav-study/lab1/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/aaron/repos/vnav-study/lab1/cmake/build/CMakeFiles/mylib.dir
