@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/aaron/vnav_ws/devel/include/**",
+        "/home/aaron/vnav_ws/src/dependencies/eigen_checks/include/**",
+        "/home/aaron/vnav_ws/src/dependencies/mav_comm/mav_msgs/include/**",
+        "/home/aaron/vnav_ws/src/dependencies/mav_comm/mav_planning_msgs/include/**",
+        "/home/aaron/vnav_ws/src/dependencies/mav_trajectory_generation/mav_trajectory_generation/include/**",
+        "/home/aaron/vnav_ws/src/dependencies/mav_trajectory_generation/mav_trajectory_generation_example/include/**",
+        "/home/aaron/vnav_ws/src/dependencies/mav_trajectory_generation/mav_trajectory_generation_ros/include/**",
+        "/home/aaron/vnav_ws/src/dependencies/mav_trajectory_generation/mav_visualization/include/**",
+        "/home/aaron/vnav_ws/src/planner_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

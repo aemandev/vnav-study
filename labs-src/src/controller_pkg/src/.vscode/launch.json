@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ROS: Launch my file",
+            "request": "launch",
+            "target": "/home/aaron/vnav_ws/src/controller_pkg/launch/traj_tracking.launch",
+            "launch": ["rviz", "gz", "gzserver", "gzclient"],
+            "type": "ros"
+        }
+    ]
+}
